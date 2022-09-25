@@ -1,5 +1,5 @@
-#include "../../naxos/naxos.h"
-#include "../localS.h"
+#include <naxos.h>
+#include <localS.h>
 
 #include <iostream>
 #include <cstdlib>
